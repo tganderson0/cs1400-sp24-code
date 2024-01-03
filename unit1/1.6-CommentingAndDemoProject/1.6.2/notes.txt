@@ -1,0 +1,7 @@
+Write a program that meets the following requirements:
+    Ask user for their name
+    Ask user for their favorite color
+    Prints a message using their name
+    Get information necessary to draw a circle
+    Use their favorite color
+    Make it interesting
