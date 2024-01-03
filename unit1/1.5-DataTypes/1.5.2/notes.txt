@@ -1,0 +1,7 @@
+Get the user's name
+Get the user's age
+
+Print the following message (assume Sally and 32)
+    Hello, Sally. In 10 years you will be 42!"
+
+Reminder: Use proper naming conventions

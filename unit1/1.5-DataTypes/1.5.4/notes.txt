@@ -1,0 +1,10 @@
+Get the number of cups of flour in a recipe
+
+Print the following (assume 3 cups in the input)
+"To double your recipe you need 6 cups of flour"
+
+float?
+floating-point
+
+123.0
+1.23 x 10^2
