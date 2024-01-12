@@ -1,0 +1,5 @@
+Check out the documentation for more info on the random module
+
+https://docs.python.org/3/
+
+You can search for "random" in the quick search box at the top

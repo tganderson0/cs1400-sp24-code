@@ -1,0 +1,7 @@
+Get the user's name
+Get the user's age
+Get the user's favorite color
+Print the following message (assume Sally, 32, and green are the input)
+  Hello, Sally. I like blue, but green is ok. Wow, 32 years old!
+
+Use proper naming conventions.

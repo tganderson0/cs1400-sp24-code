@@ -1,0 +1,4 @@
+Get the number of cups of flour in a recipe
+
+Print the following (assume 3 cups in the input)
+"To double your recipe you need 6 cups of flour"
